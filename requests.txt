@@ -1,0 +1,37 @@
+{
+  "farm_id": 5,
+  "name": "test",
+  "media_url": "https://via.placeholder.com/150",
+  "animal_id": 1,
+  "breed": "Brahman",
+  "sex": "M",
+  "status": "ACTIVE",
+  "label": "test",
+  "neutered": false,
+  "color": "Black",
+  "retention_score": "100",
+  "physical_description": "Jo hh",
+  "device_id": "wer",
+  "livestock_group_id": 1,
+  "left_tattoo": "wer",
+  "right_tattoo": "wer",
+  "ear_tags": [
+    {
+      "number": "wer",
+      "color": "wer",
+      "location": "Right"
+    }
+  ],
+  "dob": "26-09-2024",
+  "dam_id": "test",
+  "sire_id": "test",
+  "birth_weight": "100",
+  "source": "PURCHASE",
+  "seller_id": 11,
+  "purchase_price": 2300,
+  "purchase_date": "2024-09-25",
+  "weaned_at": "26-09-2024",
+  "origin_country": 8,
+  "est_value": "5000",
+  "health_history": "testing "
+}
